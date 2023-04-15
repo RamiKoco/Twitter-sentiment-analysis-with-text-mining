@@ -1,1 +1,2 @@
 # Twitter-sentiment-analysis-with-text-mining
+Metin Madenciliği(Text Mining) Duygu Analizi veya diğer bir adı ile ‘Fikir Madenciliği’(Opinion Mining) tam anlamıyla birlikte; bir yazarın veya bir yazının belirli bir konuya yönelik tutumunu olumlu( positive ), negative ),tarafsız( neutral ) olarak değerlendirilmesi için bir metin parçasıyla belirtilen görüşleri/ifadeleri çeşitli algoritmalar aracılığı ile hesaplayıp tanımlama ve sınıflandırma süreçlerine verilen genel bir tanımdır.
